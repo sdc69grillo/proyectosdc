@@ -13,3 +13,8 @@
           color:rgb(98, 97, 97);  
 
     }
+
+    .content, .foto, .nombre{
+      text-align: center;
+    }
+    
